@@ -116,4 +116,6 @@ interactive_generate(
 
 *你的 star 是我继续折腾模型的最大动力！(๑•̀ㅂ•́)و✧*
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/coco-text2image&type=Date)](https://star-history.com/#Wang-Ruibin/coco-text2image&Date)
+
 </div>
